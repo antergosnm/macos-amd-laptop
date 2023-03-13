@@ -1,6 +1,3 @@
-# macos-amd-laptop
-Trying to install macOS on my AMD Laptop
-
 ## Laptop Spec
 Not all AMD laptops will work!!
 - AMD Ryzen 7 3700U
