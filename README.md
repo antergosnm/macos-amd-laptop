@@ -22,8 +22,8 @@ OpenCore. I recommend to follow step by step the Dortania's OpenCore guide.
 - [ ] Testing GPU Acceleration kext
 
 ## Issues
-- SATA M.2 drive is not being recognized. For an unknown reason, Apple dropped support for a lot of SATA drivers on Big Sur, and guess what, SATA-Unsupported does not fix it. I tried CtlnaAHCIPort but it does not work (idk why xd).
-I'm currently looking for a solution.
+- ~~SATA M.2 drive is not being recognized. For an unknown reason, Apple dropped support for a lot of SATA drivers on Big Sur, and guess what, SATA-Unsupported does not fix it. I tried CtlnaAHCIPort but it does not work (idk why xd).
+I'm currently looking for a solution.~~
 - HID Trackpad not working xd.
 
 ## A quick note about a few things
