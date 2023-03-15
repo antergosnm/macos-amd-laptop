@@ -1,8 +1,8 @@
 ![Findericon](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Finder_Icon_macOS_Big_Sur.png/800px-Finder_Icon_macOS_Big_Sur.png)
 
 ## Contents
-[Laptop Spec](#laptop-spec)
-[Why Big Sur and not newer?](#why-big-sur-and-not-newer-?)
+- [Laptop Spec](#laptop-spec)
+- [Why Big Sur and not newer?](#why-big-sur-and-not-newer?)
 
 ## Laptop Spec
 Not all AMD laptops will work!!
