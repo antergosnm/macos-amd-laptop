@@ -3,6 +3,13 @@
 ## Contents
 - [Laptop Spec](#laptop-spec)
 - [The reason for Big Sur](#the-reason-for-big-sur)
+- [Bootloader](#bootloader)
+- [Progress](#progress)
+- [Issues](#issues)
+- [A quick note about a few things](#a-quick-note-about-a-few-things)
+- [My USB got corrupted](#my-usb-got-corrupted)
+- [Release scheme](#release-scheme)
+- [Thanks to](#thanks-to)
 
 ## Laptop Spec
 Not all AMD laptops will work!!
@@ -20,7 +27,7 @@ Not all AMD laptops will work!!
 ## The reason for Big Sur
 A developer is trying to create a .kext that allows AMD iGPU to get Graphic Acceleration and for now will only work on Big Sur.
 
-## What bootloader are you using?
+## Bootloader
 OpenCore. I recommend to follow step by step the Dortania's OpenCore guide.
 
 ## Progress
