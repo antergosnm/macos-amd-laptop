@@ -2,7 +2,7 @@
 
 ## Contents
 - [Laptop Spec](#laptop-spec)
-- [Why Big Sur and not newer?](#why-big-sur-and-not-newer?)
+- [The reason for Big Sur](#the-reason-for-big-sur)
 
 ## Laptop Spec
 Not all AMD laptops will work!!
@@ -17,7 +17,7 @@ Not all AMD laptops will work!!
 | TrackPad | HID TrackPad |
 | Keyboard | PS2 Keyboard |
 
-## Why Big Sur and not newer?
+## The reason for Big Sur
 A developer is trying to create a .kext that allows AMD iGPU to get Graphic Acceleration and for now will only work on Big Sur.
 
 ## What bootloader are you using?
