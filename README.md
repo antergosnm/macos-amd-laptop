@@ -2,10 +2,14 @@
 
 ## Laptop Spec
 Not all AMD laptops will work!!
-- AMD Ryzen 7 3700U
-- AMD RX Vega 10
-- 8GB RAM DDR4 (Dual Channel)
-- SATA M.2 512GB WD
+
+| CPU | AMD Ryzen 7 3700U |
+| GPU | AMD Radeon RX Vega 10 (Raven) |
+| RAM | 8GB DDR4 Dual Channel |
+| SSD | 512GB SATA M.2 SSD |
+| Screen | 1920x1080p Display |
+| TrackPad | HID TrackPad |
+| Keyboard | PS2 Keyboard |
 
 ## Why Big Sur and not newer?
 A developer is trying to create a .kext that allows AMD iGPU to get Graphic Acceleration and for now will only work on Big Sur.
@@ -42,6 +46,11 @@ When I release a EFI folder, if try to boot without touching anything it will re
 | `Apple ROM` | ProductInfo > Generic > ROM |
 
 That should do the job.
+
+## My USB got Corrupted
+This can happen because OpenCore didn't boot as intended, it can corrupt your USB stick, you will notice this because you can't delete or add files in certain directories inside the EFI folder.
+
+At this point you should remake your USB and find out if your BIOS is set up correctly, or if some .kext has ocassionated the issue.
 
 ## Release scheme
 Every time I make a change which result successful I'll release my EFI folder without the Product info on the config.plist.
