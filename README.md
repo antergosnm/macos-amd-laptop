@@ -2,6 +2,7 @@
 
 ## Contents
 [Laptop Spec](#laptop-spec)
+[Why Big Sur and not newer?](#why-big-sur-and-not-newer-?)
 
 ## Laptop Spec
 Not all AMD laptops will work!!
