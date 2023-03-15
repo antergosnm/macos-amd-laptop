@@ -3,6 +3,8 @@
 ## Laptop Spec
 Not all AMD laptops will work!!
 
+| Component | Name |
+| --- | --- |
 | CPU | AMD Ryzen 7 3700U |
 | GPU | AMD Radeon RX Vega 10 (Raven) |
 | RAM | 8GB DDR4 Dual Channel |
