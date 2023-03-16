@@ -33,9 +33,9 @@ OpenCore. I recommend to follow step by step the Dortania's OpenCore guide.
 ## Progress
 - [x] OpenCore boot!
 - [x] Installer has appeared!
-- [ ] Install successful
-- [ ] Booted the installation
-- [ ] Using it as normal (no GPU Acceleration)
+- [x] Install successful
+- [x] Booted the installation
+- [x] Using it as normal (no GPU Acceleration)
 - [ ] Testing GPU Acceleration kext
 
 ## Issues
